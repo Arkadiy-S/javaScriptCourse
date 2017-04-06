@@ -1,4 +1,6 @@
-﻿class Node {
+﻿// домашнее задание  - обход графа
+// уточнить - в глубину или ширину
+class Node {
 constructor (name) {
         this.name = name;
         this.children = [];
